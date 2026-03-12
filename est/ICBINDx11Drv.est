@@ -1,4 +1,4 @@
-[Public]
+﻿[Public]
 Object=(Name=ICBINDx11Drv.ICBINDx11RenderDevice,Class=Class,MetaClass=Engine.RenderDevice,Autodetect=d3d11.dll)
 ; EN: Preferences=(Caption="ICBIND (DX11)",Parent="Rendering",Class=ICBINDx11Drv.ICBINDx11RenderDevice,Immediate=True)
 Preferences=(Caption="ICBIND (DX11)",Parent="Rendering",Class=ICBINDx11Drv.ICBINDx11RenderDevice,Immediate=True)

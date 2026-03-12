@@ -1,4 +1,4 @@
-[Public]
+﻿[Public]
 Object=(Name=UTMenu.UTConsole,Class=Class,MetaClass=Engine.Console)
 
 [UTConsole]

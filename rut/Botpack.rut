@@ -1,4 +1,4 @@
-[Public]
+﻿[Public]
 ; Gametypes
 Object=(Name=Botpack.DeathMatchPlus,Class=Class,MetaClass=Botpack.TournamentGameInfo)
 Object=(Name=Botpack.CTFGame,Class=Class,MetaClass=Botpack.TournamentGameInfo)

@@ -1,4 +1,4 @@
-[public]
+﻿[public]
 ; EN: Object=(Name=UMenu.UMenuGoldLookAndFeel,Class=Class,MetaClass=UWindow.UWindowLookAndFeel,Description="Gold")
 Object=(Name=UMenu.UMenuGoldLookAndFeel,Class=Class,MetaClass=UWindow.UWindowLookAndFeel,Description="Золото")
 ; EN: Object=(Name=UMenu.UMenuBlueLookAndFeel,Class=Class,MetaClass=UWindow.UWindowLookAndFeel,Description="Ice")

@@ -1,4 +1,4 @@
-[Public]
+﻿[Public]
 ; EN: Object=(Name=MultiMesh.TSkaarj,Class=Class,MetaClass=Botpack.TournamentPlayer,Description="Skaarj Hybrid")
 Object=(Name=MultiMesh.TSkaarj,Class=Class,MetaClass=Botpack.TournamentPlayer,Description="Скаардж-гибрид")
 ; EN: Object=(Name=MultiMesh.TNali,Class=Class,MetaClass=Botpack.TournamentPlayer,Description="Nali")

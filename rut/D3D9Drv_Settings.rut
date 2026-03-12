@@ -1,4 +1,4 @@
-[Public]
+﻿[Public]
 ; EN: Property=(Config,Class=D3D9Drv.D3D9RenderDevice,Name=RefreshRate,Title="Refresh Rate",Description="If set to a non-zero value, Unreal Tournament will attempt to set the monitor refresh rate to the configured value when switching to fullscreen mode.")
 Property=(Config,Class=D3D9Drv.D3D9RenderDevice,Name=RefreshRate,Title="Частота",Description="Если указано ненулевое значение, Unreal Tournament попытается задать указанную частоту обновления монитора для полноэкранного режима.")
 ; EN: Property=(Config,Class=D3D9Drv.D3D9RenderDevice,Name=GammaOffset,Title="Gamma Offset",Description="Adjust gamma offset.",Range(-1,1,0.05))

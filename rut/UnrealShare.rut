@@ -1,4 +1,4 @@
-[Public]
+﻿[Public]
 ;Object=(Name=UnrealShare.DeathMatchGame,Class=Class,MetaClass=Engine.GameInfo)
 ;Object=(Name=UnrealShare.UnrealGameInfo,Class=Class,MetaClass=Engine.GameInfo)
 ;Object=(Name=UnrealShare.TeamGame,Class=Class,MetaClass=Engine.GameInfo)

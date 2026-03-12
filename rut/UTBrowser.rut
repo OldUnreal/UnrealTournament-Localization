@@ -1,4 +1,4 @@
-[UTBrowserServerGrid]
+﻿[UTBrowserServerGrid]
 ; EN: ngStatsName="Stats Logging"
 ngStatsName="Журнал статистики"
 ; EN: VersionName="Version"

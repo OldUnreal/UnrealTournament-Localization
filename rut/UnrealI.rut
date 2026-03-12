@@ -1,4 +1,4 @@
-[Public]
+﻿[Public]
 Object=(Name=UnrealI.KingOfTheHill,Class=Class,MetaClass=Engine.GameInfo)
 Object=(Name=UnrealI.DarkMatch,Class=Class,MetaClass=Engine.GameInfo)
 ; EN: Object=(Name=UnrealI.FlakCannon,Class=Class,MetaClass=Engine.Weapon,Description="Flak Cannon")

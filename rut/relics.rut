@@ -1,4 +1,4 @@
-[Public]
+﻿[Public]
 ; EN: Object=(Name=relics.RelicStrength,Class=Class,MetaClass=Engine.Mutator,Description="Relic: Strength,A magical relic that imparts a great increase in damage.")
 Object=(Name=relics.RelicStrength,Class=Class,MetaClass=Engine.Mutator,Description="Реликт: Сила,Волшебный реликт, значительно увеличивающий урон.")
 ; EN: Object=(Name=relics.RelicSpeed,Class=Class,MetaClass=Engine.Mutator,Description="Relic: Speed,A magical relic that imparts superhuman speed and reflexes.")

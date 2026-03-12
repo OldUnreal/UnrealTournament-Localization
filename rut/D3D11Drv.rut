@@ -1,4 +1,4 @@
-[Public]
+﻿[Public]
 Object=(Name=D3D11Drv.D3D11RenderDevice,Class=Class,MetaClass=Engine.RenderDevice,Autodetect=d3d11.dll)
 ; EN: Preferences=(Caption="Direct3D 11",Parent="Rendering",Class=D3D11Drv.D3D11RenderDevice,Immediate=True)
 Preferences=(Caption="Direct3D 11",Parent="Rendering",Class=D3D11Drv.D3D11RenderDevice,Immediate=True)
