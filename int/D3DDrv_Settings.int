@@ -8,6 +8,7 @@ Property=(Config,Class=D3DDrv.D3DRenderDevice,Name=UseGammaCorrection,Title="Gam
 Property=(Config,Class=D3DDrv.D3DRenderDevice,Name=UseMultitexture,Title="Multitexture",Description="Enables support for light maps and macro textures. This will drastically improve image quality.")
 Property=(Config,Class=D3DDrv.D3DRenderDevice,Name=UseTrilinear,Title="Trilinear Filtering",Description="If checked, the game will use trilinear texture filtering. If set to false, the game will use bilinear filtering. Trilinear filtering improves image quality, but (slightly) reduces the game frame rate.")
 Property=(Config,Class=D3DDrv.D3DRenderDevice,Name=UseMipmapping,Title="Mipmapping",Description="If checked, uses mipmapping.")
+Property=(Config,Class=D3DDrv.D3DRenderDevice,Name=UseS3TC,Title="S3 Image Compression",Description="Enables the use of high resolution compressed textures (if they are installed). This improves image quality but may reduce rendering performance.")
 Property=(Config,Class=D3DDrv.D3DRenderDevice,Name=UsePrecache,Title="Precaching",Description="If checked, all textures will be precached in GPU memory. This increases load times, but reduces fluctuations in the frame rate.")
 Property=(Config,Class=D3DDrv.D3DRenderDevice,Name=OneXBlending,Title="One-X Blending",Description="If enabled, emulates DirectX 7 lightmap blending for more "washed out" look.")
 Property=(Config,Class=D3DDrv.D3DRenderDevice,Name=DetailTextures,Title="Detail Textures",Description="If checked, enables detail texture support.")
