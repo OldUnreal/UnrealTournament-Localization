@@ -12,7 +12,7 @@ IdealPlayerCount="2-4"
 ; EN: FortName="The Fuse"
 FortName="Die Zündschnur"
 ; EN: DestroyedMessage="has been ignited!"
-DestroyedMessage="wurde angezündet!"
+DestroyedMessage="wurde entzündet!"
 
 [FortStandard2]
 ; EN: FortName="The Garage Door"
