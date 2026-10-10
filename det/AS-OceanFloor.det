@@ -3,7 +3,7 @@
 Title="Meeresboden 'Station 5'"
 IdealPlayerCount="8-10"
 ; EN: LevelEnterText="Control the underwater base!"
-LevelEnterText="Kontrolliere die Unterwasserbasis!"
+LevelEnterText="Übernimm die Kontrolle über die Unterwasserbasis!"
 
 [ZoneInfo5]
 ; EN: ZoneName="Middle Area"
@@ -66,7 +66,7 @@ DestroyedMessage="wurde zerstört!"
 Title="Meeresboden 'Station 5'"
 IdealPlayerCount="8-10"
 ; EN: LevelEnterText="Control the underwater base!"
-LevelEnterText="Kontrolliere die Unterwasserbasis!"
+LevelEnterText="Übernimm die Kontrolle über die Unterwasserbasis!"
 
 [AssaultInfo0]
 ; EN: ObjDesc[0]="Swim out towards the base below the submarine. Inside the base there are 4 terminals with keyboards attached to them that need to be destroyed in order to render the base useless. Destroy terminal 1. The terminals can be destroyed in any order."
@@ -80,7 +80,7 @@ ObjDesc[3]="Zerstöre Terminal 4. Die Terminals können in beliebiger Reihenfolg
 
 [ZoneInfo6]
 ; EN: ZoneName="Elevator Shaft"
-ZoneName="Fahrstuhlschacht"
+ZoneName="Aufzugsschacht"
 
 [SpecialEvent15]
 ; EN: Message="Terminal 3 has been disabled."
