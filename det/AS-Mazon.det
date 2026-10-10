@@ -1,6 +1,6 @@
 ﻿[LevelInfo0]
 ; EN: Title="Mazon Fortress"
-Title="Festung Mazon"
+Title="Mazon Fortress"
 IdealPlayerCount="8-12"
 
 [FortStandard5]
@@ -17,7 +17,7 @@ DestroyedMessage="sind geöffnet!"
 
 [LevelSummary]
 ; EN: Title="Mazon Fortress"
-Title="Festung Mazon"
+Title="Mazon Fortress"
 IdealPlayerCount="8-12"
 
 [FortStandard0]
