@@ -37,15 +37,15 @@ DestroyedMessage="wurde übernommen!!"
 
 [FortStandard1]
 ; EN: FortName="The CAR 3"
-FortName="Der WAGEN 3"
+FortName="Wagen 3"
 ; EN: DestroyedMessage="is about to be breached!!"
-DestroyedMessage="ist im Begriff durchbrochen zu werden!!"
+DestroyedMessage="wird gleich durchbrochen!!"
 
 [FortStandard3]
 ; EN: FortName="The CAR 1"
-FortName="Der WAGEN 1"
+FortName="Wagen 1"
 ; EN: DestroyedMessage="is about to breached!!"
-DestroyedMessage="ist im Begriff durchbrochen zu werden!!"
+DestroyedMessage="wird gleich durchbrochen!!"
 
 [SpecialEvent1]
 ; EN: DamageString="%ls ate an helicopter blade..."
@@ -96,6 +96,6 @@ Message="DER ZUG WURDE EINGENOMMEN!!"
 
 [FortStandard2]
 ; EN: FortName="The CAR 2"
-FortName="Der WAGEN 2"
+FortName="Wagen 2"
 ; EN: DestroyedMessage="is about to be breached!!"
-DestroyedMessage="ist im Begriff durchbrochen zu werden!!"
+DestroyedMessage="wird gleich durchbrochen!!"
