@@ -3,7 +3,7 @@
 Title="Hohe Geschwindigkeit"
 IdealPlayerCount="4-10"
 ; EN: LevelEnterText="Control the train!! NO MERCY!!"
-LevelEnterText="Kontrolliere den Zug!! KEINE GNADE!!"
+LevelEnterText="Übernimm die Kontrolle über den Zug!! KEINE GNADE!!"
 
 [ZoneInfo8]
 ; EN: ZoneName="3rd. Car"
@@ -31,7 +31,7 @@ DamageString="%ls fiel zwischen die Wagen. Das tut weh..."
 
 [FortStandard0]
 ; EN: FortName="The Control Cabin"
-FortName="Die Steuerkabine"
+FortName="Der Führerstand"
 ; EN: DestroyedMessage="has been taken over!!"
 DestroyedMessage="wurde übernommen!!"
 
@@ -49,11 +49,11 @@ DestroyedMessage="ist im Begriff durchbrochen zu werden!!"
 
 [SpecialEvent1]
 ; EN: DamageString="%ls ate an helicopter blade..."
-DamageString="%ls aß ein Rotorblatt..."
+DamageString="%ls geriet in die Rotorblätter eines Hubschraubers..."
 
 [FortStandard4]
 ; EN: FortName="The Control Cabin Access Switch"
-FortName="Der Zugangsschalter für die Steuerkabine"
+FortName="Der Zugangsschalter zum Führerstand"
 ; EN: DestroyedMessage="has been activated!!"
 DestroyedMessage="wurde aktiviert!!"
 
@@ -79,16 +79,16 @@ LocationName="Säuretank"
 
 [AssaultInfo0]
 ; EN: ObjDesc[0]="Work your way to the front of train. In Car One you will find a switch on the upper level that opens up the door to the Control Cabin below. Activate this switch."
-ObjDesc[0]="Arbeite dich vor zum Anfang des Zuges. In Wagen Eins findest du einen Schalter auf der oberen Ebene, der die Tür zur Steuerkabine unten öffnet. Aktiviere diesen Schalter."
+ObjDesc[0]="Kämpfe dich bis zum vorderen Ende des Zuges durch. In Wagen 1 findest du auf der oberen Ebene einen Schalter, der die Tür zum darunterliegenden Führerstand öffnet. Betätige diesen Schalter."
 ; EN: ObjDesc[1]="Jump down to the control room. In there you'll find a lever that will override the train's controls."
-ObjDesc[1]="Springe runter in den Kontrollraum. Dort findest du einen Hebel, der die Steuerung des Zuges außer Kraft setzt."
+ObjDesc[1]="Springe hinunter in den Führerstand. Dort findest du einen Hebel, mit dem du die Zugsteuerung übernimmst."
 
 [LevelSummary]
 ; EN: Title="High Speed"
 Title="Hohe Geschwindigkeit"
 IdealPlayerCount="4-10"
 ; EN: LevelEnterText="Control the train!! NO MERCY!!"
-LevelEnterText="Kontrolliere den Zug!! KEINE GNADE!!"
+LevelEnterText="Übernimm die Kontrolle über den Zug!! KEINE GNADE!!"
 
 [SpecialEvent9]
 ; EN: Message="THE TRAIN HAS BEEN CAPTURED!!"
