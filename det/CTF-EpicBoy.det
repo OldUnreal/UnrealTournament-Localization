@@ -1,11 +1,11 @@
 ﻿[LevelInfo0]
 ; EN: Title="Epic Boy"
-Title="Epischer Junge"
+Title="Epic Boy"
 IdealPlayerCount="6-10"
 
 [LevelSummary]
 ; EN: Title="Epic Boy"
-Title="Epischer Junge"
+Title="Epic Boy"
 IdealPlayerCount="6-10"
 
 [ZoneInfo0]
@@ -26,7 +26,7 @@ ZoneName="Blauer unterer Flur"
 
 [ZoneInfo4]
 ; EN: ZoneName="Blue Flag Base"
-ZoneName="Blaue Flagge Basis"
+ZoneName="Blaue Flaggen Basis"
 
 [ZoneInfo5]
 ; EN: ZoneName="Blue Upper Hallway"
@@ -42,7 +42,7 @@ ZoneName="Roter oberer Flur"
 
 [ZoneInfo9]
 ; EN: ZoneName="Red Flag Base"
-ZoneName="Rote Flagge Basis"
+ZoneName="Rote Flaggen Basis"
 
 [ZoneInfo10]
 ; EN: ZoneName="Red Lower Hallway"
