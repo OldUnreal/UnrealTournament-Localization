@@ -68,7 +68,7 @@ Object=(Name=Botpack.UT_Eightball,Class=Class,MetaClass=Botpack.TournamentWeapon
 ; EN: Object=(Name=Botpack.SniperRifle,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Sniper Rifle")
 Object=(Name=Botpack.SniperRifle,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Scharfschützengewehr")
 ; EN: Object=(Name=Botpack.WarheadLauncher,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Redeemer")
-Object=(Name=Botpack.WarheadLauncher,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Erlöser")
+Object=(Name=Botpack.WarheadLauncher,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Nuklearrakete")
 ; Mutators
 ; EN: Object=(Name=Botpack.FatBoy,Class=Class,MetaClass=Engine.Mutator,Description="FatBoy,Everyone fattens when they frag a lot and become thinner when they get fragged.")
 Object=(Name=Botpack.FatBoy,Class=Class,MetaClass=Engine.Mutator,Description="FatBoy,Spieler werden dicker, wenn sie viele Gegner töten, und wieder dünner, wenn sie selbst getötet werden.")
@@ -85,7 +85,7 @@ Object=(Name=Botpack.LowGrav,Class=Class,MetaClass=Engine.Mutator,Description="N
 ; EN: Object=(Name=Botpack.JumpMatch,Class=Class,MetaClass=Engine.Mutator,Description="Jump Match,Players will be able to jump extremely high.")
 Object=(Name=Botpack.JumpMatch,Class=Class,MetaClass=Engine.Mutator,Description="Sprungspiel,Die Spieler können extrem hoch springen.")
 ; EN: Object=(Name=Botpack.NoRedeemer,Class=Class,MetaClass=Engine.Mutator,Description="No Redeemer,The Redeemer is removed from the game.")
-Object=(Name=Botpack.NoRedeemer,Class=Class,MetaClass=Engine.Mutator,Description="Kein Erlöser,Der Erlöser wird aus dem Spiel entfernt.")
+Object=(Name=Botpack.NoRedeemer,Class=Class,MetaClass=Engine.Mutator,Description="Keine Nuklearrakete,Entfernt die Nuklearrakete aus dem Spiel.")
 ; EN: Object=(Name=Botpack.FlakArena,Class=Class,MetaClass=Engine.Mutator,Description="Flak Cannon Arena,All weapon and ammo pickups are replaced with Flak Cannons and Flak Ammo.")
 Object=(Name=Botpack.FlakArena,Class=Class,MetaClass=Engine.Mutator,Description="Nur Flak-Kanonen,Alle Waffen- und Munitions-Pickups werden durch Flak-Kanonen und Flak-Munition ersetzt.")
 ; EN: Object=(Name=Botpack.impactarena,Class=Class,MetaClass=Engine.Mutator,Description="Impact Hammer Arena,Weapons and items are removed from the match, and players only carry an Impact Hammer.")
@@ -1017,13 +1017,13 @@ HasRed="hat die rote Flagge!"
 
 [WarheadLauncher]
 ; EN: WeaponDescription="Classification: Thermonuclear Device\n\nPrimary Fire: Launches a huge yet slow moving missile that, upon striking a solid surface, will explode and send out a gigantic shock wave, instantly pulverizing anyone or anything within its colossal radius, including yourself.\n\nSecondary Fire: Take control of the missile and fly it anywhere.  You can press the primary fire button to explode the missile early.\n\nTechniques: Remember that while this rocket is being piloted you are a sitting duck.  If an opponent manages to hit your incoming Redeemer missile while it's in the air, the missile will explode harmlessly."
-WeaponDescription="Klassifizierung: Thermonukleare Waffe\n\nPrimärfeuer: Verschießt eine riesige, langsam fliegende Rakete. Beim Aufprall auf eine feste Oberfläche explodiert sie und erzeugt eine gewaltige Schockwelle, die alles in ihrem enormen Wirkungsradius augenblicklich vernichtet – auch dich selbst.\n\nSekundärfeuer: Du übernimmst die Steuerung der Rakete und kannst sie selbst ins Ziel lenken. Mit der primären Feuertaste kannst du sie vorzeitig zur Explosion bringen.\n\nTechniken: Während du die Rakete steuerst, bist du ein leichtes Ziel. Trifft ein Gegner die fliegende Erlöser-Rakete, explodiert sie, ohne Schaden anzurichten."
+WeaponDescription="Klassifizierung: Thermonuklearer Raketenwerfer\n\nPrimärfeuer: Feuert eine gewaltige, langsam fliegende Nuklearrakete ab. Beim Aufprall löst sie eine verheerende Explosion aus. Die gewaltige Schockwelle vernichtet alles in ihrem riesigen Wirkungsradius – auch dich selbst.\n\nSekundärfeuer: Übernimm die Kontrolle über die Nuklearrakete und steuere sie direkt ins Ziel. Mit der primären Feuertaste kannst du sie jederzeit vorzeitig zur Explosion bringen.\n\nTechniken: Während du die Nuklearrakete steuerst, bist du ein leichtes Ziel für deine Gegner. Die Rakete kann außerdem während des Fluges abgeschossen werden. In diesem Fall explodiert sie, ohne Schaden anzurichten."
 ; EN: DeathMessage="%o was vaporized by %k's %w!!"
-DeathMessage="%o wurde durch %ks %w verdampft !!"
+DeathMessage="%o wurde durch %ks %w ausgelöscht !!"
 ; EN: PickupMessage="You got the Redeemer."
-PickupMessage="Erlöser erhalten."
+PickupMessage="Nuklearrakete erhalten."
 ; EN: ItemName="Redeemer"
-ItemName="Erlöser"
+ItemName="Nuklearrakete"
 
 [SniperRifle]
 ; EN: WeaponDescription="Classification: Long Range Ballistic\n\nRegular Fire: Fires a high powered bullet. Can kill instantly when applied to the cranium of opposing forces. \n\nSecondary Fire: Zooms the rifle in, up to eight times normal vision. Allows for extreme precision from hundreds of yards away.\n\nTechniques: Great for long distance headshots!"
