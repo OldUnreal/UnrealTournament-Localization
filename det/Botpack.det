@@ -48,9 +48,9 @@ Object=(Name=Botpack.Translocator,Class=Class,MetaClass=Botpack.TournamentWeapon
 ; EN: Object=(Name=Botpack.enforcer,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Enforcer")
 Object=(Name=Botpack.enforcer,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Vollstrecker")
 ; EN: Object=(Name=Botpack.doubleenforcer,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Double Enforcers")
-Object=(Name=Botpack.doubleenforcer,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Doppelte Vollstrecker")
+Object=(Name=Botpack.doubleenforcer,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Zwei Vollstrecker")
 ; EN: Object=(Name=Botpack.ut_biorifle,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="GES BioRifle")
-Object=(Name=Botpack.ut_biorifle,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="GES BioGewehr")
+Object=(Name=Botpack.ut_biorifle,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="GES-Biogewehr")
 ; EN: Object=(Name=Botpack.ShockRifle,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Shock Rifle")
 Object=(Name=Botpack.ShockRifle,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Schockgewehr")
 ; EN: Object=(Name=Botpack.SuperShockRifle,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Super Shock Rifle")
@@ -58,7 +58,7 @@ Object=(Name=Botpack.SuperShockRifle,Class=Class,MetaClass=Botpack.TournamentWea
 ; EN: Object=(Name=Botpack.PulseGun,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Pulse Gun")
 Object=(Name=Botpack.PulseGun,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Impulsgewehr")
 ; EN: Object=(Name=Botpack.ripper,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Ripper")
-Object=(Name=Botpack.ripper,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Aufreißer")
+Object=(Name=Botpack.ripper,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Klingenwerfer")
 ; EN: Object=(Name=Botpack.minigun2,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Minigun")
 Object=(Name=Botpack.minigun2,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Minigeschütz")
 ; EN: Object=(Name=Botpack.UT_FlakCannon,Class=Class,MetaClass=Botpack.TournamentWeapon,Description="Flak Cannon")
@@ -438,8 +438,8 @@ SoundLengths[22]=12
 SoundLengths[23]=8
 ; EN: TutMessage[0]="Welcome to Deathmatch combat training. Deathmatch is a sport in which you compete against other gun-wielding players in a fast paced free-for-all. The object is to destroy all of your enemies by any means necessary."
 TutMessage[0]="Willkommen zum Deathmatch-Kampftraining. Deathmatch ist eine Sportart, bei der du in einem rasanten Free-for-All gegen andere Spieler mit Waffen antrittst. Ziel ist es, alle deine Feinde mit allen erforderlichen Mitteln zu vernichten."
-; EN: TutMessage[1]="Every time you take an enemy out you get a point, called a "frag" in gaming lingo. You can see your frag count on the left side of the screen. At the end of the game the player with the most frags wins the match."
-TutMessage[1]="Jedes Mal, wenn du einen Feind ausschaltest, erhältst du einen Punkt, der im Gaming-Jargon als "frag" bezeichnet wird. Du kannst die Anzahl deiner Frags auf der linken Seite des Bildschirms sehen. Am Ende des Spiels gewinnt der Spieler mit den meisten Frags das Match."
+; EN: TutMessage[1]="Every time you take an enemy out you get a point, called a 'Frag' in gaming lingo. You can see your frag count on the left side of the screen. At the end of the game the player with the most frags wins the match."
+TutMessage[1]="Jedes Mal, wenn du einen Feind ausschaltest, erhältst du einen Punkt, der im Gaming-Jargon als 'Frag' bezeichnet wird. Du kannst die Anzahl deiner Frags auf der linken Seite des Bildschirms sehen. Am Ende des Spiels gewinnt der Spieler mit den meisten Frags das Match."
 ; EN: TutMessage[2]="Remember, if you accidentally blow yourself up or fall into lava you will lose a frag!"
 TutMessage[2]="Denke daran, wenn du dich versehentlich in die Luft jagst oder in Lava fällst, verlierst du einen Frag!"
 ; EN: TutMessage[3]="Let's learn some basics about moving around. A good deathmatch player is always moving, because a moving target is harder to hit than a stationary one."
@@ -512,11 +512,11 @@ GameName="Kampftraining: DM"
 
 [enforcer]
 ; EN: DoubleName="Double Enforcers"
-DoubleName="Doppelte Vollstrecker"
+DoubleName="Zwei Vollstrecker"
 ; EN: WeaponDescription="Classification: Light Pistol\n\nPrimary Fire: Accurate but slow firing instant hit.\n\nSecondary Fire: Sideways, or 'Gangsta' firing mode, shoots twice as fast and half as accurate as the primary fire.\n\nTechniques: Collect two for twice the damage."
 WeaponDescription="Klassifizierung: Leichte Pistole\n\nPrimärfeuer: Präzise Treffer ohne Projektilflugzeit, aber geringe Feuerrate.\n\nSekundärfeuer: Im seitlich gehaltenen 'Gangsta'-Modus schießt die Waffe doppelt so schnell, jedoch nur halb so präzise wie beim Primärfeuer.\n\nTechniken: Sammle zwei Vollstrecker für die doppelte Feuerkraft."
 ; EN: DeathMessage="%k riddled %o full of holes with the %w."
-DeathMessage="%k durchlöcherte %o mit der %w."
+DeathMessage="%k durchlöcherte %o mit %w."
 ; EN: PickupMessage="You picked up another Enforcer!"
 PickupMessage="Du hast einen weiteren Vollstrecker aufgehoben!"
 ; EN: ItemName="Enforcer"
@@ -729,7 +729,7 @@ TeamName[1]="Blaues Team"
 ; EN: TeamName[2]="Green Team"
 TeamName[2]="Grünes Team"
 ; EN: TeamName[3]="Gold Team"
-TeamName[3]="Gold Team"
+TeamName[3]="Goldenes Team"
 ; EN: OrdersString="Orders:"
 OrdersString="Aufträge:"
 ; EN: InString="Location:"
@@ -844,21 +844,21 @@ BotNames[5]="Annaka"
 BotNames[6]="Tamika"
 BotNames[7]="Ryanna"
 ; EN: BotClassifications[0]="Warrior"
-BotClassifications[0]="Krieger"
+BotClassifications[0]="Kriegerin"
 ; EN: BotClassifications[1]="Warrior"
-BotClassifications[1]="Krieger"
+BotClassifications[1]="Kriegerin"
 ; EN: BotClassifications[2]="Warrior"
-BotClassifications[2]="Krieger"
+BotClassifications[2]="Kriegerin"
 ; EN: BotClassifications[3]="Chem Killer"
 BotClassifications[3]="Chem-Killer"
 ; EN: BotClassifications[4]="Warrior"
-BotClassifications[4]="Krieger"
+BotClassifications[4]="Kriegerin"
 ; EN: BotClassifications[5]="Warrior"
-BotClassifications[5]="Krieger"
+BotClassifications[5]="Kriegerin"
 ; EN: BotClassifications[6]="Warrior"
-BotClassifications[6]="Krieger"
+BotClassifications[6]="Kriegerin"
 ; EN: BotClassifications[7]="Warrior"
-BotClassifications[7]="Krieger"
+BotClassifications[7]="Kriegerin"
 ; EN: BotBio[0]="Once a trader for the Cyron Financial Commission, Othello became a suicidal pit fighter following the mysterious death of his wife."
 BotBio[0]="Othello war einst Händler bei der Cyron Financial Commission. Nach dem mysteriösen Tod seiner Frau wurde er zu einem lebensmüden Arenakämpfer."
 ; EN: BotBio[1]="Born into an extremely rich family, Azure has had the benefit of training from the top fighters of her time. Physical engineering from the best hospitals has enhanced her abilities to the limit of perfection."
@@ -1073,7 +1073,7 @@ ESCMessage="Drücke ESC, um fortzufahren..."
 
 [ut_biorifle]
 ; EN: WeaponDescription="Classification: Toxic Rifle\n\nPrimary Fire: Wads of Tarydium byproduct are lobbed at a medium rate of fire.\n\nSecondary Fire: When trigger is held down, the BioRifle will create a much larger wad of byproduct. When this wad is launched, it will burst into smaller wads which will adhere to any surfaces. If the projectile hits another player, or the user is hit instead, it can kill them instantly.\n\nTechniques: Byproducts will adhere to walls, floors, or ceilings. Chain reactions can be caused by covering entryways with this lethal green waste."
-WeaponDescription="Klassifizierung: Giftgewehr\n\nPrimärfeuer: Klumpen eines giftigen Tarydium-Nebenprodukts werden mit mittlerer Feuerrate verschossen.\n\nSekundärfeuer: Hältst du die Feuertaste gedrückt, sammelt das BioGewehr eine größere Menge des giftigen Materials. Beim Abfeuern zerfällt diese Masse in kleinere Klumpen, die an Oberflächen haften bleiben. Trifft die konzentrierte Ladung einen Spieler, kann sie ihn sofort töten.\n\nTechniken: Der giftige Schleim haftet an Wänden, Böden und Decken. Indem du Eingänge mit dem tödlichen grünen Material bedeckst, kannst du Kettenreaktionen auslösen."
+WeaponDescription="Klassifizierung: Giftgewehr\n\nPrimärfeuer: Klumpen eines giftigen Tarydium-Nebenprodukts werden mit mittlerer Feuerrate verschossen.\n\nSekundärfeuer: Hältst du die Feuertaste gedrückt, sammelt das Biogewehr eine größere Menge des giftigen Materials. Beim Abfeuern zerfällt diese Masse in kleinere Klumpen, die an Oberflächen haften bleiben. Trifft die konzentrierte Ladung einen Spieler, kann sie ihn sofort töten.\n\nTechniken: Der giftige Schleim haftet an Wänden, Böden und Decken. Indem du Eingänge mit dem tödlichen grünen Material bedeckst, kannst du Kettenreaktionen auslösen."
 ; EN: DeathMessage="%o drank a glass of %k's dripping green load."
 DeathMessage="%o schluckte eine volle Ladung von %ks grünem Schleim."
 ; EN: PickupMessage="You got the GES BioRifle."
@@ -2462,17 +2462,17 @@ BotBio[5]="Kein Profil verfügbar. Sicherheitsfreigabe der Stufe 9 erforderlich.
 ; EN: MapTitle[0]="AS Tutorial"
 MapTitle[0]="AS Tutorial"
 ; EN: MapTitle[1]="Frigate"
-MapTitle[1]="Fregatte"
+MapTitle[1]="Frigate"
 ; EN: MapTitle[2]="High Speed"
-MapTitle[2]="Hohe Geschwindigkeit"
+MapTitle[2]="High Speed"
 ; EN: MapTitle[3]="Rook"
-MapTitle[3]="Turm"
+MapTitle[3]="Rook"
 ; EN: MapTitle[4]="Mazon Fortress"
-MapTitle[4]="Mazon Festung"
+MapTitle[4]="Mazon Fortress"
 ; EN: MapTitle[5]="Ocean Floor 'Station 5'"
-MapTitle[5]="Meeresboden 'Station 5'"
+MapTitle[5]="Ocean Floor 'Station 5'"
 ; EN: MapTitle[6]="Operation Overlord"
-MapTitle[6]="Operation Oberherr"
+MapTitle[6]="Operation Overlord"
 ; EN: MapDescription[0]="Learn the basic rules of Assault in this special training environment. Test your skills against an untrained enemy before entering the tournament proper."
 MapDescription[0]="Lerne die grundlegenden Regeln von Assault in dieser speziellen Trainingsumgebung. Teste deine Fähigkeiten gegen einen ungeübten Gegner, bevor du am eigentlichen Turnier teilnimmst."
 ; EN: MapDescription[1]="A somewhat antiquated Earth warship, the restored SS Victory is still seaworthy. A dual security system prevents intruders from activating the guns by only allowing crew members to open the control room portal. However, should the aft boiler be damaged beyond repair the door will auto-release, allowing access to anyone."
@@ -3364,11 +3364,10 @@ ItemName="Magazin"
 
 [doubleenforcer]
 ; EN: ItemName="Double Enforcers"
-ItemName="Doppelte Vollstrecker"
-
+ItemName="Zwei Vollstrecker"
 [Translocator]
 ; EN: WeaponDescription="Classification: Personal Teleportation Device\n\nPrimary Fire: Launches the destination module.  Throw the module to the location you would like to teleport to.\n\nSecondary Fire: Activates the translocator and teleports the user to the destination module.\n\nTechniques: Throw your destination module at another player and then activate the secondary fire, and you will telefrag your opponent!  If you press your primary fire button when activating your translocator with the secondary fire, the last weapon you had selected will automatically return once you have translocated."
-WeaponDescription="Klassifizierung: Persönliches Teleportationsgerät\n\nPrimärfeuer: Wirft das Zielmodul des Translocators ab. Schieße das Modul an den Ort, zu dem du dich teleportieren möchtest.\n\nSekundärfeuer: Aktiviert den Translocator und teleportiert dich sofort zum Zielmodul.\n\nTechniken: Wirf dein Zielmodul auf einen anderen Spieler und aktiviere anschließend das Sekundärfeuer, um deinen Gegner durch einen Telefrag auszuschalten! Wenn du beim Teleportieren mit dem Sekundärfeuer gleichzeitig die primäre Feuertaste gedrückt hältst, wird nach der Teleportation automatisch wieder deine zuvor ausgewählte Waffe aktiviert."
+WeaponDescription="Klassifizierung: Persönliches Teleportationsgerät\n\nPrimärfeuer: Wirft das Zielmodul des Translokators ab. Schieße das Modul an den Ort, zu dem du dich teleportieren möchtest.\n\nSekundärfeuer: Aktiviert den Translokator und teleportiert dich sofort zum Zielmodul.\n\nTechniken: Wirf dein Zielmodul auf einen anderen Spieler und aktiviere anschließend das Sekundärfeuer, um deinen Gegner durch einen Telefrag auszuschalten! Wenn du beim Teleportieren mit dem Sekundärfeuer gleichzeitig die primäre Feuertaste gedrückt hältst, wird nach der Teleportation automatisch wieder deine zuvor ausgewählte Waffe aktiviert."
 ; EN: DeathMessage="%k telefragged %o!"
 DeathMessage="%k telefraggte %o!"
 ; EN: PickupMessage="You got the Translocator Source Module."
