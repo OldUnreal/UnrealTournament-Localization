@@ -1,6 +1,6 @@
 ﻿[LevelInfo0]
 ; EN: Title="Guardia Fortress"
-Title="Festung Guardia"
+Title="Guardia Fortress"
 IdealPlayerCount="6-12"
 
 [AssaultInfo2]
@@ -25,7 +25,7 @@ DestroyedMessage="wurde durchbrochen!"
 
 [LevelSummary]
 ; EN: Title="Guardia Fortress"
-Title="Guardia Festung"
+Title="Guardia Fortress"
 IdealPlayerCount="6-12"
 
 [FortStandard1]
