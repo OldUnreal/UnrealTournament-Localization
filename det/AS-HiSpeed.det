@@ -1,6 +1,6 @@
 ﻿[LevelInfo0]
 ; EN: Title="High Speed"
-Title="Hohe Geschwindigkeit"
+Title="High Speed"
 IdealPlayerCount="4-10"
 ; EN: LevelEnterText="Control the train!! NO MERCY!!"
 LevelEnterText="Übernimm die Kontrolle über den Zug!! KEINE GNADE!!"
@@ -85,7 +85,7 @@ ObjDesc[1]="Springe hinunter in den Führerstand. Dort findest du einen Hebel, m
 
 [LevelSummary]
 ; EN: Title="High Speed"
-Title="Hohe Geschwindigkeit"
+Title="High Speed"
 IdealPlayerCount="4-10"
 ; EN: LevelEnterText="Control the train!! NO MERCY!!"
 LevelEnterText="Übernimm die Kontrolle über den Zug!! KEINE GNADE!!"
