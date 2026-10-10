@@ -1,6 +1,6 @@
 ﻿[LevelInfo0]
 ; EN: Title="Facing Worlds Special Edition"
-Title="Gegenüberstehende Welten Sonderedition"
+Title="Facing Worlds Special Edition"
 IdealPlayerCount="4-10"
 
 [ZoneInfo3]
@@ -25,11 +25,11 @@ ZoneName="Blauer Scharfschütze"
 
 [ZoneInfo5]
 ; EN: ZoneName="Blue Redeemer"
-ZoneName="Blauer Erlöser"
+ZoneName="Blaue Nuklearrakete"
 
 [ZoneInfo4]
 ; EN: ZoneName="Red Redeemer"
-ZoneName="Roter Erlöser"
+ZoneName="Roter Nuklearrakete"
 
 [SpecialEvent0]
 ; EN: DamageString="put in orbit"
@@ -93,5 +93,5 @@ LocationName="Roter Turm"
 
 [LevelSummary]
 ; EN: Title="Facing Worlds Special Edition"
-Title="Gegenüberstehende Welten Sonderedition"
+Title="Facing Worlds Special Edition"
 IdealPlayerCount="4-10"
