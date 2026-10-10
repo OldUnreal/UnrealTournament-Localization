@@ -1,6 +1,6 @@
 ﻿[LevelInfo0]
 ; EN: Title="Ocean Floor 'Station 5'"
-Title="Meeresboden 'Station 5'"
+Title="Ocean Floor 'Station 5'"
 IdealPlayerCount="8-10"
 ; EN: LevelEnterText="Control the underwater base!"
 LevelEnterText="Übernimm die Kontrolle über die Unterwasserbasis!"
@@ -63,7 +63,7 @@ DestroyedMessage="wurde zerstört!"
 
 [LevelSummary]
 ; EN: Title="Ocean Floor 'Station 5'"
-Title="Meeresboden 'Station 5'"
+Title="Ocean Floor 'Station 5'"
 IdealPlayerCount="8-10"
 ; EN: LevelEnterText="Control the underwater base!"
 LevelEnterText="Übernimm die Kontrolle über die Unterwasserbasis!"
