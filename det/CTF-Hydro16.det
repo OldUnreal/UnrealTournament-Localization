@@ -1,6 +1,6 @@
 ﻿[LevelInfo0]
 ; EN: Title="Hydro Bases"
-Title="Wasserbasen"
+Title="Hydro Bases"
 IdealPlayerCount="6-12"
 
 [ZoneInfo9]
@@ -17,7 +17,7 @@ ZoneName="Blauer Flaggenraum"
 
 [ZoneInfo10]
 ; EN: ZoneName="Blue Boiler Room"
-ZoneName="Blauer Heizungsraum"
+ZoneName="Blauer Kesselraum"
 
 [ZoneInfo3]
 ; EN: ZoneName="Blue Pillar Passage"
@@ -25,7 +25,7 @@ ZoneName="Blaues Säulenzimmer"
 
 [ZoneInfo13]
 ; EN: ZoneName="Red Boiler Room"
-ZoneName="Roter Heizungsraum"
+ZoneName="Roter Kesselraum"
 
 [ZoneInfo6]
 ; EN: ZoneName="Red Courtyard"
@@ -41,5 +41,5 @@ ZoneName="Brücken"
 
 [LevelSummary]
 ; EN: Title="Hydro Bases"
-Title="Wasserbasen"
+Title="Hydro Bases"
 IdealPlayerCount="6-12"
