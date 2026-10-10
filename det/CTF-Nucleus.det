@@ -1,6 +1,6 @@
 ﻿[LevelInfo0]
 ; EN: Title="Nucleus Power Plant"
-Title="Kraftwerk Nukleus"
+Title="Nucleus Power Plant"
 IdealPlayerCount="12"
 
 [ZoneInfo6]
@@ -65,7 +65,7 @@ ZoneName="Blauer Energiekanal"
 
 [LevelSummary]
 ; EN: Title="Nucleus Power Plant"
-Title="Kraftwerk Nukleus"
+Title="Nucleus Power Plant"
 IdealPlayerCount="12"
 
 [ZoneInfo13]
