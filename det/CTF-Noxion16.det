@@ -1,6 +1,6 @@
 ﻿[LevelInfo0]
 ; EN: Title="Noxion Base"
-Title="Basis Noxion"
+Title="Noxion Base"
 IdealPlayerCount="6-16"
 
 [ZoneInfo0]
@@ -53,5 +53,5 @@ ZoneName="Schon Tot"
 
 [LevelSummary]
 ; EN: Title="Noxion Base"
-Title="Basis Noxion"
+Title="Noxion Base"
 IdealPlayerCount="6-16"
