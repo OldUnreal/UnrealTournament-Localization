@@ -1,5 +1,5 @@
 ﻿[Public]
-Preferences=(Caption="File System",Parent="Advanced",Class=Core.System,Immediate=True)
+Preferences=(Caption="System Settings",Parent="Advanced",Class=Core.System,Immediate=True)
 
 [Language]
 ; HOW DOES IT WORK: Language: translated name of your language (i.e. "Español" for "Spanish") - LangId and SubLangId are pulled off from this document:
