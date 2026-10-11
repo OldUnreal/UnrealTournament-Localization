@@ -3371,6 +3371,6 @@ WeaponDescription="Klassifizierung: Persönliches Teleportationsgerät\n\nPrimä
 ; EN: DeathMessage="%k telefragged %o!"
 DeathMessage="%k telefraggte %o!"
 ; EN: PickupMessage="You got the Translocator Source Module."
-PickupMessage="Translocator-Quellmodul erhalten."
+PickupMessage="Du hast Translokator-Quellmodul erhalten."
 ; EN: ItemName="Translocator"
 ItemName="Translokator"
