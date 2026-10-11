@@ -1,6 +1,6 @@
 ﻿[LevelInfo0]
 ; EN: Title="City Domination"
-Title="Stadtherrschaft"
+Title="City Dominationt"
 IdealPlayerCount="4-8"
 
 [ZoneInfo2]
@@ -37,5 +37,5 @@ PointName="Dach"
 
 [LevelSummary]
 ; EN: Title="City Domination"
-Title="Stadtherrschaft"
+Title="City Domination"
 IdealPlayerCount="4-8"
