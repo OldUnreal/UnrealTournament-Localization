@@ -1,6 +1,6 @@
 ﻿[LevelInfo0]
 ; EN: Title="Southside Leadworks"
-Title="Bleischmelze Südseite"
+Title="Southside Leadworks"
 IdealPlayerCount="6-12"
 ; EN: LevelEnterText="Entering the Southside Leadworks"
 LevelEnterText="Betreten der Bleischmelze Südseite"
@@ -47,7 +47,7 @@ ZoneName="Ripper-Lager"
 
 [LevelSummary]
 ; EN: Title="Southside Leadworks"
-Title="Bleischmelze Südseite"
+Title="Southside Leadworks"
 IdealPlayerCount="6-12"
 ; EN: LevelEnterText="Entering the Southside Leadworks"
 LevelEnterText="Betreten der Bleischmelze Südseite"
