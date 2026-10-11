@@ -1,6 +1,6 @@
 ﻿[LevelInfo0]
 ; EN: Title="Tomb of Sesmar"
-Title="Grab von Sesmar"
+Title="Tomb of Sesmar"
 IdealPlayerCount="6-12"
 ; EN: LevelEnterText="DOMINATE!!!!"
 LevelEnterText="DOMINIEREN!!!!"
@@ -43,7 +43,7 @@ ZoneName="Rotes Ankh-Kreuz"
 
 [LevelSummary]
 ; EN: Title="Tomb of Sesmar"
-Title="Grab von Sesmar"
+Title="Tomb of Sesmar"
 IdealPlayerCount="6-12"
 ; EN: LevelEnterText="DOMINATE!!!!"
 LevelEnterText="DOMINIEREN!!!!"

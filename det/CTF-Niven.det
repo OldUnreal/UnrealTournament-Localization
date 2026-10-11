@@ -1,6 +1,6 @@
 ﻿[LevelInfo0]
 ; EN: Title="Niven Experimental Lab"
-Title="Versuchslabor Niven"
+Title="Niven Experimental Lab"
 IdealPlayerCount="4-6"
 ; EN: LevelEnterText="Niven Experimental Lab"
 LevelEnterText="Versuchslabor Niven"
@@ -27,7 +27,7 @@ ZoneName="Blaue Basis"
 
 [LevelSummary]
 ; EN: Title="Niven Experimental Lab"
-Title="Versuchslabor Niven"
+Title="Niven Experimental Lab"
 IdealPlayerCount="4-6"
 ; EN: LevelEnterText="Niven Experimental Lab"
 LevelEnterText="Versuchslabor Niven"

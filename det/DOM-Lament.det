@@ -1,6 +1,6 @@
 ﻿[LevelInfo0]
 ; EN: Title="Lament"
-Title="Klage"
+Title="Lament"
 IdealPlayerCount="2-4"
 ; EN: LevelEnterText="Control it all!"
 LevelEnterText="Kontrolliere alles!"
@@ -19,7 +19,7 @@ PointName="Unten"
 
 [LevelSummary]
 ; EN: Title="Lament"
-Title="Klage"
+Title="Lament"
 IdealPlayerCount="2-4"
 ; EN: LevelEnterText="Control it all!"
 LevelEnterText="Kontrolliere alles!"

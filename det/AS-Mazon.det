@@ -1,6 +1,6 @@
 ﻿[LevelInfo0]
 ; EN: Title="Mazon Fortress"
-Title="Mazon Festung"
+Title="Mazon Fortress"
 IdealPlayerCount="8-12"
 
 [FortStandard5]
@@ -17,12 +17,12 @@ DestroyedMessage="sind geöffnet!"
 
 [LevelSummary]
 ; EN: Title="Mazon Fortress"
-Title="Mazon Festung"
+Title="Mazon Fortress"
 IdealPlayerCount="8-12"
 
 [FortStandard0]
 ; EN: FortName="The Front Doors"
-FortName="Die Vordertüren"
+FortName="Die Eingangstore"
 ; EN: DestroyedMessage="are opened!"
 DestroyedMessage="sind geöffnet!"
 
@@ -40,10 +40,10 @@ DestroyedMessage="wurde zerstört!"
 
 [AssaultInfo0]
 ; EN: ObjDesc[0]="Your enemy is using Tarydium, a powerful and volatile element, to power their War Machines. You must infiltrate the base by first destroying the two counterweights outside the west wing of the fort. This will open the doors to the fortress."
-ObjDesc[0]="Dein Feind benutzt Tarydium, ein mächtiges und flüchtiges Element, um seine Kriegsmaschinen anzutreiben. Du musst die Basis infiltrieren, indem du zuerst die beiden Gegengewichte außerhalb des Westflügels der Festung zerstörst. Dies öffnet die Türen zur Festung."
+ObjDesc[0]="Dein Feind nutzt Tarydium, ein mächtiges, instabiles Element, als Energiequelle für seine Kriegsmaschinen. Dringe in die Basis ein, indem du zuerst die beiden Gegengewichte an der Außenseite des Westflügels der Festung zerstörst. Dadurch öffnen sich die Tore der Festung."
 ; EN: ObjDesc[1]="Optionally, you may locate the main gate access control switch and open the castle's main gate, giving your teammates more direct access."
-ObjDesc[1]="Optional kannst du den Zugangskontrollschalter des Haupttors lokalisieren und das Haupttor des Schlosses öffnen, um deinen Teamkollegen einen direkteren Zugang zu ermöglichen."
+ObjDesc[1]="Du kannst außerdem den Schalter zur Steuerung des Haupttors finden und das Tor öffnen, damit deine Teamkameraden einen direkteren Zugang zur Festung erhalten."
 ; EN: ObjDesc[2]="Find and activate the primary access control switch to gain entry to the Tarydium reactor room."
-ObjDesc[2]="Suche und aktiviere den primären Zugangskontrollschalter, um Zugang zum Tarydium-Reaktorraum zu erhalten."
+ObjDesc[2]="Finde und betätige den zentralen Zugangsschalter, um den Tarydium-Reaktorraum betreten zu können."
 ; EN: ObjDesc[3]="Finally, destroy the Tarydium power crystal to shut down the operation."
-ObjDesc[3]="Zerstöre schließlich den Tarydium-Leistungskristall, um den Betrieb zu beenden."
+ObjDesc[3]="Zerstöre schließlich den Tarydium-Energiekristall, um die Anlage stillzulegen."

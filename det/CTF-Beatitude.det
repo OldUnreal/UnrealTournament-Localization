@@ -1,6 +1,6 @@
 ﻿[LevelInfo0]
 ; EN: Title="Temple of Beatitude"
-Title="Tempel der Seligkeit"
+Title="Temple of Beatitude"
 IdealPlayerCount="8-16"
 
 [ZoneInfo6]
@@ -13,7 +13,7 @@ ZoneName="Blaue Basis"
 
 [ZoneInfo0]
 ; EN: ZoneName="Center"
-ZoneName="Center"
+ZoneName="Mitte"
 
 [ZoneInfo5]
 ; EN: ZoneName="Red Tube Room"
@@ -25,5 +25,5 @@ ZoneName="Blauer Röhrenraum"
 
 [LevelSummary]
 ; EN: Title="Temple of Beatitude"
-Title="Tempel der Seligkeit"
+Title="Temple of Beatitude"
 IdealPlayerCount="8-16"

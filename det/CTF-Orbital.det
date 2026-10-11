@@ -1,6 +1,6 @@
 ﻿[LevelInfo0]
 ; EN: Title="Orbital Station #12"
-Title="Orbitalstation Nr. 12"
+Title="Orbital Station #12"
 IdealPlayerCount="12-24"
 
 [ZoneInfo4]
@@ -41,5 +41,5 @@ ZoneName="Rote Scharfschützenhallen"
 
 [LevelSummary]
 ; EN: Title="Orbital Station #12"
-Title="Orbitalstation Nr. 12"
+Title="Orbital Station #12"
 IdealPlayerCount="12-24"

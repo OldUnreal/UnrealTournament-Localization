@@ -1,9 +1,9 @@
 ﻿[LevelInfo0]
 ; EN: Title="Ocean Floor 'Station 5'"
-Title="Meeresboden 'Station 5'"
+Title="Ocean Floor 'Station 5'"
 IdealPlayerCount="8-10"
 ; EN: LevelEnterText="Control the underwater base!"
-LevelEnterText="Kontrolliere die Unterwasserbasis!"
+LevelEnterText="Übernimm die Kontrolle über die Unterwasserbasis!"
 
 [ZoneInfo5]
 ; EN: ZoneName="Middle Area"
@@ -35,7 +35,7 @@ Message="Terminal 1 wurde deaktiviert."
 
 [FortStandard0]
 ; EN: FortName="The Terminal 3"
-FortName="Das Terminal 3"
+FortName="Terminal 3"
 ; EN: DestroyedMessage="has been destroyed!!"
 DestroyedMessage="wurde zerstört!!"
 
@@ -45,28 +45,28 @@ Message="Terminal 4 wurde deaktiviert."
 
 [FortStandard1]
 ; EN: FortName="The Terminal 1"
-FortName="Das Terminal 1"
+FortName="Terminal 1"
 ; EN: DestroyedMessage="has been destroyed!"
 DestroyedMessage="wurde zerstört!"
 
 [FortStandard2]
 ; EN: FortName="The Terminal 2"
-FortName="Das Terminal 2"
+FortName="Terminal 2"
 ; EN: DestroyedMessage="has been destroyed!!"
 DestroyedMessage="wurde zerstört!!"
 
 [FortStandard3]
 ; EN: FortName="The Terminal 4"
-FortName="Das Terminal 4"
+FortName="Terminal 4"
 ; EN: DestroyedMessage="has been destroyed!"
 DestroyedMessage="wurde zerstört!"
 
 [LevelSummary]
 ; EN: Title="Ocean Floor 'Station 5'"
-Title="Meeresboden 'Station 5'"
+Title="Ocean Floor 'Station 5'"
 IdealPlayerCount="8-10"
 ; EN: LevelEnterText="Control the underwater base!"
-LevelEnterText="Kontrolliere die Unterwasserbasis!"
+LevelEnterText="Übernimm die Kontrolle über die Unterwasserbasis!"
 
 [AssaultInfo0]
 ; EN: ObjDesc[0]="Swim out towards the base below the submarine. Inside the base there are 4 terminals with keyboards attached to them that need to be destroyed in order to render the base useless. Destroy terminal 1. The terminals can be destroyed in any order."
@@ -80,7 +80,7 @@ ObjDesc[3]="Zerstöre Terminal 4. Die Terminals können in beliebiger Reihenfolg
 
 [ZoneInfo6]
 ; EN: ZoneName="Elevator Shaft"
-ZoneName="Fahrstuhlschacht"
+ZoneName="Aufzugsschacht"
 
 [SpecialEvent15]
 ; EN: Message="Terminal 3 has been disabled."

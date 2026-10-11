@@ -1,6 +1,6 @@
 ﻿[LevelInfo0]
 ; EN: Title="Cybrosis Central ]["
-Title="Zentrale Zybrose ]["
+Title="Cybrosis Central ]["
 IdealPlayerCount="4-12"
 
 [ZoneInfo24]
@@ -97,7 +97,7 @@ DamageString="%k hat einen schockierenden Fehler gemacht"
 
 [LevelSummary]
 ; EN: Title="Cybrosis Central ]["
-Title="Zentrale Zybrose ]["
+Title="Cybrosis Central ]["
 IdealPlayerCount="4-12"
 
 [SpecialEvent11]

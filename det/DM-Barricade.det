@@ -1,6 +1,6 @@
 ﻿[LevelInfo0]
 ; EN: Title="Orion's Barricade"
-Title="Barrikade des Orion"
+Title="Orion's Barricade"
 IdealPlayerCount="6-12"
 
 [ZoneInfo11]
@@ -17,5 +17,5 @@ ZoneName="Keller"
 
 [LevelSummary]
 ; EN: Title="Orion's Barricade"
-Title="Barrikade des Orion"
+Title="Orion's Barricade"
 IdealPlayerCount="6-12"

@@ -1,6 +1,6 @@
 ﻿[LevelInfo0]
 ; EN: Title="Lament ]["
-Title="Klage ]["
+Title="Lament ]["
 IdealPlayerCount="2-4"
 ; EN: LevelEnterText="Break out the rubber, it's DOMINATION time!"
 LevelEnterText="Hol das Gummi raus, es ist DOMINANZ Zeit!"
@@ -19,7 +19,7 @@ PointName="Oben"
 
 [LevelSummary]
 ; EN: Title="Lament ]["
-Title="Klage ]["
+Title="Lament ]["
 IdealPlayerCount="2-4"
 ; EN: LevelEnterText="Break out the rubber, it's DOMINATION time!"
 LevelEnterText="Hol das Gummi raus, es ist DOMINANZ Zeit!"

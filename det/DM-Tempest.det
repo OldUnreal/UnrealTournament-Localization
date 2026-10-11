@@ -1,6 +1,6 @@
 ﻿[LevelInfo0]
 ; EN: Title="Tempest"
-Title="Sturm"
+Title="Tempest"
 IdealPlayerCount="4-16"
 
 [ZoneInfo0]
@@ -21,5 +21,5 @@ ZoneName="Schildgürtel"
 
 [LevelSummary]
 ; EN: Title="Tempest"
-Title="Sturm"
+Title="Tempest"
 IdealPlayerCount="4-16"

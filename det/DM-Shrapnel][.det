@@ -1,6 +1,6 @@
 ﻿[LevelInfo0]
 ; EN: Title="Shrapnel ]["
-Title="Schrapnell ]["
+Title="Schrapnel ]["
 IdealPlayerCount="6-16"
 
 [ZoneInfo1]
@@ -25,5 +25,5 @@ ZoneName="Raketenwerferraum"
 
 [LevelSummary]
 ; EN: Title="Shrapnel ]["
-Title="Schrapnell ]["
+Title="Schrapnel ]["
 IdealPlayerCount="6-16"

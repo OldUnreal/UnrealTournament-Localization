@@ -1,6 +1,6 @@
 ﻿[LevelInfo0]
 ; EN: Title="Condemned"
-Title="Abbruchreif"
+Title="Condemned"
 IdealPlayerCount="6"
 ; EN: LevelEnterText="Dominate the competition!"
 LevelEnterText="Beherrsche die Konkurrenz!"
@@ -15,7 +15,7 @@ PointName="Arturo's"
 
 [ZoneInfo0]
 ; EN: ZoneName="The Condemned Building"
-ZoneName="Das abbruchreifes Gebäude"
+ZoneName="Das abbruchreife Gebäude"
 
 [ControlPoint1]
 ; EN: PointName="Rooftop"
@@ -35,7 +35,7 @@ LocationName="Dach"
 
 [LevelSummary]
 ; EN: Title="Condemned"
-Title="Abbruchreif"
+Title="Condemned"
 IdealPlayerCount="6"
 ; EN: LevelEnterText="Dominate the competition!"
 LevelEnterText="Beherrsche die Konkurrenz!"

@@ -2,7 +2,7 @@
 ; EN: ngStatsName="Stats Logging"
 ngStatsName="Statistikprotokoll"
 ; EN: VersionName="Version"
-VersionName="Ausführung"
+VersionName="Version"
 ; EN: EnabledText="Enabled"
 EnabledText="Aktiviert"
 ; EN: AskNgStatsTitle="Use ngWorldStats?"

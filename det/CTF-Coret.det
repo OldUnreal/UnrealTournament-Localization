@@ -1,6 +1,6 @@
 ﻿[LevelInfo0]
 ; EN: Title="Coret Facility"
-Title="Coret-Einrichtung"
+Title="Coret Facility"
 IdealPlayerCount="6-12"
 ; EN: LevelEnterText="Welcome to Coret Facility. Enjoy your stay."
 LevelEnterText="Willkommen bei Coret Facility. Genieße deinen Aufenthalt."
@@ -35,7 +35,7 @@ ZoneName="Blaues Foyer"
 
 [ZoneInfo2]
 ; EN: ZoneName="Red Side Approach"
-ZoneName="Rote Seitenzustieg"
+ZoneName="Roter seitlicher Zugang"
 
 [ZoneInfo10]
 ; EN: ZoneName="Red Foyer"
@@ -47,7 +47,7 @@ ZoneName="Blaue Overhead-Halle"
 
 [ZoneInfo9]
 ; EN: ZoneName="Red Overhead Hall"
-ZoneName="Rote Überkopfhalle"
+ZoneName="Rote Overhead-Halle"
 
 [ZoneInfo0]
 ; EN: ZoneName="Middle Area - Top"
@@ -55,7 +55,7 @@ ZoneName="Mittlerer Bereich - Oben"
 
 [LevelSummary]
 ; EN: Title="Coret Facility"
-Title="Coret-Einrichtung"
+Title="Coret Facility"
 IdealPlayerCount="6-12"
 ; EN: LevelEnterText="Welcome to Coret Facility. Enjoy your stay."
 LevelEnterText="Willkommen bei Coret Facility. Genieße deinen Aufenthalt."

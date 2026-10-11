@@ -1,6 +1,6 @@
 ﻿[LevelInfo0]
 ; EN: Title="Darji Outpost #16-A"
-Title="Darji-Außenposten Nr. 16-A"
+Title="Darji Outpost #16-A"
 IdealPlayerCount="12-16"
 ; EN: LevelEnterText="In the desert, there is pain."
 LevelEnterText="In der Wüste gibt es Schmerzen."
@@ -43,7 +43,7 @@ ZoneName="Rote Scharfschützen-Türme"
 
 [LevelSummary]
 ; EN: Title="Darji Outpost #16-A"
-Title="Darji-Außenposten Nr. 16-A"
+Title="Darji Outpost #16-A"
 IdealPlayerCount="12-16"
 ; EN: LevelEnterText="In the desert, there is pain."
 LevelEnterText="In der Wüste gibt es Schmerzen."

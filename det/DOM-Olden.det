@@ -1,6 +1,6 @@
 ﻿[LevelInfo0]
 ; EN: Title="Olden Aquifer"
-Title="Alter Grundwasserleiter"
+Title="Olden Aquifer"
 IdealPlayerCount="4-6"
 
 [ZoneInfo2]
@@ -21,11 +21,11 @@ ZoneName="Kettenliftraum"
 
 [ControlPoint1]
 ; EN: PointName="Lower"
-PointName="Niedriger"
+PointName="Unten"
 
 [ControlPoint2]
 ; EN: PointName="Upper"
-PointName="Oberer"
+PointName="Oben"
 
 [ControlPoint0]
 ; EN: PointName="Mid"
@@ -37,5 +37,5 @@ ZoneName="Aquädukt"
 
 [LevelSummary]
 ; EN: Title="Olden Aquifer"
-Title="Alter Grundwasserleiter"
+Title="Olden Aquifer"
 IdealPlayerCount="4-6"

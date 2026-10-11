@@ -1,6 +1,6 @@
 ﻿[LevelInfo0]
 ; EN: Title="November Sub Pen"
-Title="November-U-Boot-Bunker"
+Title="November Sub Pen"
 IdealPlayerCount="8-12"
 ; EN: LevelEnterText="Entering November-Nuclear Submarine Pen."
 LevelEnterText="Eintritt in den November-Atom-U-Boot-Bunker."
@@ -35,7 +35,7 @@ ZoneName="Wasser"
 
 [LevelSummary]
 ; EN: Title="November Sub Pen"
-Title="November-U-Boot-Bunker"
+Title="November Sub Pen"
 IdealPlayerCount="8-12"
 ; EN: LevelEnterText="Entering November-Nuclear Submarine Pen."
 LevelEnterText="Eintritt in den November-Atom-U-Boot-Bunker."
