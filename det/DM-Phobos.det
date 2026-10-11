@@ -1,6 +1,6 @@
 ﻿[LevelInfo0]
 ; EN: Title="Phobos Moon"
-Title="Phobos Mond"
+Title="Phobos Moon"
 IdealPlayerCount="4-8"
 
 [ZoneInfo5]
@@ -25,5 +25,5 @@ ZoneName="BioGewehr-Korridor"
 
 [LevelSummary]
 ; EN: Title="Phobos Moon"
-Title="Phobos Mond"
+Title="Phobos Moon"
 IdealPlayerCount="4-8"
