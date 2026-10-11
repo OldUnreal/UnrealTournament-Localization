@@ -1,11 +1,11 @@
 ﻿[LevelInfo0]
 ; EN: Title="Arcane Temple"
-Title="Arkaner Tempel"
+Title="Arcane Temple"
 IdealPlayerCount="3-8"
 
 [LevelSummary]
 ; EN: Title="Arcane Temple"
-Title="Arkaner Tempel"
+Title="Arcane Temple"
 IdealPlayerCount="3-8"
 
 [WaterZone0]
@@ -18,7 +18,7 @@ ZoneName="Kaskadenstrom"
 
 [WaterZone2]
 ; EN: ZoneName="Redeemer Lake"
-ZoneName="Erlösersee"
+ZoneName="Nuklear See"
 
 [WaterZone3]
 ; EN: ZoneName="Ramps Area (Swimming)"
