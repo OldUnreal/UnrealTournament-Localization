@@ -75,7 +75,7 @@ LanPlayHelp="Falls aktiviert, wird dein Server für das Spiel im lokalen Netzwer
 
 [UMenuStatusBar]
 ; EN: DefaultHelp="Press ESC to return to the game"
-DefaultHelp="ESCape drücken, um zum Spiel zurückzukehren."
+DefaultHelp="ESC drücken, um zum Spiel zurückzukehren."
 ; EN: DefaultIntroHelp="Use the Game menu to start a new game."
 DefaultIntroHelp="Das Spielmenü verwenden, um ein neues Spiel zu starten."
 
@@ -101,7 +101,7 @@ PlayersText="Spieler"
 
 [UMenuWeaponPriorityListBox]
 ; EN: WeaponPriorityHelp="Click and drag a weapon name in the list on the left to change its priority. Weapons higher in the list have higher priority."
-WeaponPriorityHelp="Klicke auf und ziehe eine Waffenbezeichnung in der Liste links, um deren Prioritäten zu ändern. Waffen haben eine höhere Priorität, wenn sie in der Liste weiter oben stehen."
+WeaponPriorityHelp="Klicke und ziehe eine Waffenbezeichnung in der Liste links, um deren Prioritäten zu ändern. Waffen haben eine höhere Priorität, wenn sie in der Liste weiter oben stehen."
 
 [UMenuBotConfigClientWindow]
 ; EN: BIMText="Enable Bots"
@@ -123,11 +123,11 @@ CrosshairHelp="Wähle das Fadenkreuz aus, welches in deinem Bildschirmzentrum er
 ; EN: ExcludeCaption="Mutators not Used"
 ExcludeCaption="Nicht verwendete Mutatoren"
 ; EN: ExcludeHelp="Click and drag a mutator to the right hand column to include that mutator in this game."
-ExcludeHelp="Klicke auf und ziehe einen Mutator in die rechte Spalte hinein, um diesen Mutator dem Spiel hinzuzufügen."
+ExcludeHelp="Klicke und ziehe einen Mutator in die rechte Spalte hinein, um diesen Mutator dem Spiel hinzuzufügen."
 ; EN: IncludeCaption="Mutators Used"
 IncludeCaption="Verwendete Mutatoren"
 ; EN: IncludeHelp="Click and drag a mutator to the left hand column to remove it from the mutator list, or drag it up or down to re-order it in the mutator list."
-IncludeHelp="Klicke auf und ziehe einen Mutator in die linke Spalte hinein, um ihn aus dem Spiel zu entfernen, oder ziehe ihn hoch/runter zur Festlegung einer neuen Reihenfolge in der Liste der verwendeten Mutatoren."
+IncludeHelp="Klicke und ziehe einen Mutator in die linke Spalte hinein, um ihn aus dem Spiel zu entfernen, oder ziehe ihn hoch/runter zur Festlegung einer neuen Reihenfolge in der Liste der verwendeten Mutatoren."
 ; EN: KeepText="Always use this Mutator configuration"
 KeepText="Immer diese Mutator Konfiguration verwenden"
 ; EN: KeepHelp="If checked, these Mutators will always be used when starting games."
