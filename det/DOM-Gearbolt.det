@@ -1,6 +1,6 @@
 ﻿[LevelInfo0]
 ; EN: Title="Gearbolt Installation"
-Title="Installation der Getriebeschraube"
+Title="Gearbolt Installation"
 IdealPlayerCount="6-12"
 
 [ZoneInfo8]
@@ -33,5 +33,5 @@ PointName="Rampe"
 
 [LevelSummary]
 ; EN: Title="Gearbolt Installation"
-Title="Installation der Getriebeschraube"
+Title="Gearbolt Installation"
 IdealPlayerCount="6-12"
