@@ -1,6 +1,6 @@
 ﻿[LevelInfo0]
 ; EN: Title="Ghardhen Labs"
-Title="Ghardhen Labore"
+Title="Ghardhen Labs"
 IdealPlayerCount="6-12"
 
 [ZoneInfo13]
@@ -41,12 +41,12 @@ ZoneName="Strahlkammer 2"
 
 [LevelSummary]
 ; EN: Title="Ghardhen Labs"
-Title="Ghardhen Labore"
+Title="Ghardhen Labs"
 IdealPlayerCount="6-12"
 
 [locationid7]
 ; EN: LocationName="Central Room - Lower"
-LocationName="Zentraler Raum - Unterer"
+LocationName="Zentraler Raum - Unten"
 
 [locationid6]
 ; EN: LocationName="Central Room - Top"
