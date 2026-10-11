@@ -1,6 +1,6 @@
 ﻿[LevelInfo0]
 ; EN: Title="Bulletproof"
-Title="Kugelsicher"
+Title="Bulletproof"
 IdealPlayerCount="8-16"
 
 [ControlPoint2]
@@ -17,5 +17,5 @@ PointName="Alpha"
 
 [LevelSummary]
 ; EN: Title="Bulletproof"
-Title="Kugelsicher"
+Title="Bulletproof"
 IdealPlayerCount="8-16"
