@@ -2657,7 +2657,7 @@ MapDescription[6]="Организаторы турнира в Лиандри р�
 ; EN: ControlPointStr="Control Point"
 ControlPointStr="Контрольную точку"
 ; EN: ControlledBy="now controlled by"; Note: "Контролирует красная команда", "Контролирует синяя команда"
-ControlledBy="теперь контролируют"
+ControlledBy="теперь контролирует"
 
 [LMSOutMessage]
 ; EN: OutMessage="is OUT!"
