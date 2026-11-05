@@ -1,6 +1,7 @@
 ﻿[Public]
 Property=(Name=ContextType,Class=OpenGLDrv.OpenGLRenderDevice,Title="OpenGL Mode",Value(Autodetect),Value("Compatibility=OpenGL 2.1 ARB"),Value("Core_3_3=OpenGL 3.3 Core"),Value("ES_3_1=OpenGL ES 3.1"),Description="Selects OpenGL profile and rendering mode.",Config,RequireRestart)
 Property=(Name=SelectedContextType,Class=OpenGLDrv.OpenGLRenderDevice,Title="Current Mode",Value(Autodetect),Value("Compatibility=OpenGL 2.1 ARB"),Value("Core_3_3=OpenGL 3.3 Core"),Value("ES_3_1=OpenGL ES 3.1"),Description="Currently selected OpenGL profile and rendering mode.",Config,Constant)
+Property=(Name=PreferDedicatedGPU,Class=OpenGLDrv.OpenGLRenderDevice,Title="Prefer dedicated GPU",Description="If checked, the renderer will prefer using a dedicated GPU instead of integrated graphics.",Config,RequireRestart)
 Property=(Name=AntiAliasingMode,Class=OpenGLDrv.OpenGLRenderDevice,Title="Antialiasing",Value(Disabled),Value(MSAA),Value("CMAA_Intel=Intel CMAA"),Value(CMAA2),Value(SSAA),Description="Specify the type of Anti-Aliasing to enable.",Range=3,Step=1,Config)
 Property=(Name=NumAASamples,Class=OpenGLDrv.OpenGLRenderDevice,Title="MSAA Samples",Description="Specifies the amount of samples for multisampled Anti-Aliasing.",Value(2),Value(4),Value(8),Value(16),Config,RequireRestart)
 Property=(Name=FramebufferBpc,Class=OpenGLDrv.OpenGLRenderDevice,Title="Framebuffer BPC",Description="Choose the Framebuffer's bits per channel.",Value("8bpc=8 bits"),Value("10bpc=10 bits"),Value("16bpc=16 bits"),Config)
