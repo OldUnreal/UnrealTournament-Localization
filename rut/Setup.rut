@@ -88,7 +88,7 @@ ExitButton="&Выйти"
 ; EN: IDC_WelcomePrompt="You are about to install %ls on your computer.\n\nClick "Next" to begin Setup, or click "Cancel" at any time to exit.\n\nThe information in the box below contains Web links you can click on to obtain more information."
 IDC_WelcomePrompt="Вы собираетесь установить %ls на ваш компьютер.\n\nНажмите «Далее», чтобы начать установку, или «Отмена» в любое время, чтобы выйти.\n\nИнформация в рамке снизу содержит Web-ссылки, по которым вы можете пройти для получения дополнительной информации."
 ; EN: IDC_WelcomePromptUpdate="This program will update your copy of %ls to version %ls.\n\nClick "Next" to begin Setup, or click "Cancel" at any time to exit.\n\nThe information in the box below contains Web links you can click on to obtain more information."
-IDC_WelcomePromptUpdate="Вы собираетесь обновити вашу копию %ls до версии %ls.\n\nНажмите «Далее», чтобы начать установку, или «Отмена» в любое время, чтобы выйти.\n\nИнформация в рамке внизу содержит Web-ссылки, по которым вы можете пройти для получения дополнительной информации."
+IDC_WelcomePromptUpdate="Вы собираетесь обновить вашу копию %ls до версии %ls.\n\nНажмите «Далее», чтобы начать установку, или «Отмена» в любое время, чтобы выйти.\n\nИнформация в рамке внизу содержит Web-ссылки, по которым вы можете пройти для получения дополнительной информации."
 ; EN: IDC_LanguagePrompt="&Language"
 IDC_LanguagePrompt="&Язык"
 
