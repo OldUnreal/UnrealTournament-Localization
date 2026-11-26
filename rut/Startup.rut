@@ -55,7 +55,7 @@ IDC_ConfigPageDetail=" "
 ; EN: IDC_DetailPrompt="Based on your computer's speed, memory, and video card, Unreal Tournament has selected the following detail options in order to optimize performance."
 IDC_DetailPrompt="На основе скорости, памяти и видеокарты вашего компьютера, Unreal Tournament выбрал следующие опции детализации для достижения оптимальной производительности."
 ; EN: IDC_DetailNote="You may change these options from the game's "Preferences" window later, if you wish."
-IDC_DetailNote="Вы сможете поменять эти опции в окне »Настройки« самой игры позже, если пожелаете."
+IDC_DetailNote="Вы сможете поменять эти опции в окне «Настройки» самой игры позже, если пожелаете."
 
 [IDDIALOG_ConfigPageFirstTime]
 IDC_ConfigPageFirstTime=" "
