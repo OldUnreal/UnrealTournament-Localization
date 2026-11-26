@@ -75,7 +75,7 @@ IDC_All="Показать все устройства"
 [IDDIALOG_ConfigPageRenderer]
 IDC_ConfigPageRenderer=" "
 ; EN: IDC_RenderPrompt="Your computer supports the following 3D video devices. Unreal Tournament has chosen the optimal one. If you wish to change this, highlight an option below."
-IDC_RenderPrompt="Ваш компьютер поддерживает следующие 3D-видеоустройства. Unreal Tournament выбрал подходящий. Если желаете изменить его, выделите вариант ниже."
+IDC_RenderPrompt="Ваш компьютер поддерживает следующие 3D-видеоустройства. Unreal Tournament выбрал подходящее. Если желаете изменить его, выделите вариант ниже."
 IDC_RenderNote=" "
 ; EN: IDC_Compatible="Show certified, compatible devices"
 IDC_Compatible="Показать проверенные устройства"
